@@ -1,0 +1,8 @@
+.swing{
+    display: flex;
+    width: 100%;
+}
+.swing .swingimg{
+    width: 400px;
+    height: auto;
+}
